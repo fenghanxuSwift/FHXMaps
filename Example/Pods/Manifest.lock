@@ -1,0 +1,16 @@
+PODS:
+  - FHXMaps (0.1.0)
+
+DEPENDENCIES:
+  - FHXMaps (from `../`)
+
+EXTERNAL SOURCES:
+  FHXMaps:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FHXMaps: 46441fcaaa485968284df4f694444386b8bc360b
+
+PODFILE CHECKSUM: 9b8df6dccda8b8467b9d4a83c654f1e240d5adee
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXMaps_Example' do
+  pod 'FHXMaps', :path => '../'
+
+  target 'FHXMaps_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
